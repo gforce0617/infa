@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  1.1.cpp
+c:\documents\2 sem\infa\lab 4\1.1\1.1.cpp(45): error C3861: gets: идентификатор не найден
+c:\documents\2 sem\infa\lab 4\1.1\1.1.cpp(47): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note:  см. объявление "strcpy"

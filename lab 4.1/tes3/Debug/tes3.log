@@ -1,0 +1,3 @@
+﻿  tes3.cpp
+c:\documents\2 sem\infa\lab 4.1\tes3\tes3.cpp(54): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  tes3.vcxproj -> C:\documents\2 sem\infa\lab 4.1\Debug\tes3.exe

@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  ConsoleApplication1.cpp
+c:\documents\2 sem\infa\lab 4.1\consoleapplication1\consoleapplication1.cpp(37): warning C4101: i: неиспользованная локальная переменная
+  ConsoleApplication1.vcxproj -> C:\documents\2 sem\infa\lab 4.1\Debug\ConsoleApplication1.exe

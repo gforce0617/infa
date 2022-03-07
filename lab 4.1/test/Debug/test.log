@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (test.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  lab 4.2.cpp
+c:\documents\2 sem\infa\lab 4.1\test\lab 4.2.cpp(45): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  test.vcxproj -> C:\documents\2 sem\infa\lab 4.1\Debug\lab 4.2.exe
